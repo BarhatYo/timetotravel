@@ -1,0 +1,33 @@
+.hotels {
+  margin: 0 auto;
+  max-width: 1140px;
+  width: 100%;
+}
+
+.hotels__item {
+  width: 200px;
+}
+
+.hotels__image {
+  width: 200px;
+  margin: 0 auto;
+}
+
+.slick-arrow {
+  background-color: red;
+  width: 30px;
+  height: 30px;
+}
+
+.slick-arrow:hover {
+  background-color: aqua;
+}
+
+/* .slick-prev, .slick-next {
+  font-size: 24px !important;
+  color: black !important;
+}
+
+.slick-prev:hover, .slick-next:hover {
+  color: red !important;
+} */
